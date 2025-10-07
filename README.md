@@ -1,7 +1,6 @@
 # 🎮 Sokoban: Web2 to Web3 Journey
 
 ![Gameplay Screenshot](https://github.com/user-attachments/assets/5923bafd-cdba-444b-88e4-f1f4d9a8ff53)  
-*(replace the image link above with your own screenshot if desired)*
 
 ---
 
