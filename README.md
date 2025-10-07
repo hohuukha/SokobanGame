@@ -6,8 +6,7 @@
 
 ## 🚀 Overview
 **Sokoban: Web2 to Web3 Journey** is a modern re-imagining of the classic Sokoban puzzle game — designed with a **clean Web3 aesthetic** and powered by **Python + Pygame**.  
-Push the box to t![Uploading Screenshot 2025-10-07 110645.png…]()
-he goal while exploring symbolic stages that represent the evolution from **Web2 → Web3**.
+Push the box to the goal while exploring symbolic stages that represent the evolution from **Web2 → Web3**.
 
 ---
 
